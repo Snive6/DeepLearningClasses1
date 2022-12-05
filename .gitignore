@@ -2,9 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.zip
 
 # C extensions
 *.so
+
+Dirs
+**/data/
+**/checkpoints/
+**/images to predict/
 
 # Distribution / packaging
 .Python
