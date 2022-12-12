@@ -10,7 +10,7 @@ __pycache__/
 
 Dirs
 # **/data/
-**/checkpoints/
+# **/checkpoints/
 **/images to predict/
 
 # Distribution / packaging
