@@ -1,0 +1,2 @@
+model_checkpoint_path: "fine_tuning_126"
+all_model_checkpoint_paths: "fine_tuning_126"
